@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Durai Selvam K
 - 👀 I’m interested in IT Industry
 - 🌱 I’m currently learning Full Stack Development
--
